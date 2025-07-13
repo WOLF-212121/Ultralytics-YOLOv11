@@ -1,5 +1,7 @@
 🎯 Ultralytics-YOLOv11: Player Re-Identification in Sports Footage
+
 📝 Task: Cross-Camera Player Mapping
+
 Objective:
 Given two clips of the same gameplay from different camera angles (broadcast.mp4 and tacticam.mp4),
 map players to retain consistent player IDs across both feeds.
